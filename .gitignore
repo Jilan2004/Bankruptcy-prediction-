@@ -1,0 +1,45 @@
+# ─── Dataset (download from Lombardo et al. GitHub) ───────────────────────────
+data/american_bankruptcy_dataset.csv
+
+# ─── Trained model artifacts (large binary files) ─────────────────────────────
+model/*.cbm
+model/*.joblib
+
+# ─── CatBoost training logs ────────────────────────────────────────────────────
+catboost_info/
+
+# ─── App feedback / user-entered data ─────────────────────────────────────────
+feedback.csv
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ─── Virtual environments ─────────────────────────────────────────────────────
+venv/
+env/
+.env
+.venv/
+ENV/
+
+# ─── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── IDE ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# ─── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Logs and temp files ──────────────────────────────────────────────────────
+*.log
+*.tmp
+tmp/
