@@ -14,7 +14,7 @@ The project trains a CatBoost gradient boosting classifier, applies probability 
 | Decision Tree | 0.735 | 0.222 | 0.080 |
 | Random Forest | 0.804 | 0.186 | 0.079 |
 | CatBoost (uncalibrated) | 0.824 | 0.111 | 0.125 |
-| **CatBoost + Isotonic Calibration** | **0.825** | **0.025** | **0.188** |
+| **CatBoost + Isotonic Calibration (tuned)** | **0.828** | **0.025** | **0.188** |
 
 Classification threshold set to **0.4** (raises recall on bankrupt companies from 51% to 70%).
 
