@@ -56,8 +56,8 @@ Bankruptcy_thesis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bankruptcy-thesis.git
-cd bankruptcy-thesis
+git clone https://github.com/Jilan2004/Bankruptcy-prediction-.git
+cd Bankruptcy-prediction-
 ```
 
 ### 2. Install dependencies
@@ -152,5 +152,7 @@ https://www.mdpi.com/1999-5903/14/8/244
 
 ## Author
 
+**Jilan Kourdi**  
 Bachelor's Thesis — Romanian-American University, Bucharest  
-Faculty of Computer Science for Business Management
+Faculty of Computer Science for Business Management  
+GitHub: [Jilan2004](https://github.com/Jilan2004)
