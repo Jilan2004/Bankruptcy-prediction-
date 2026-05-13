@@ -153,6 +153,4 @@ https://www.mdpi.com/1999-5903/14/8/244
 ## Author
 
 **Jilan Kourdi**  
-Bachelor's Thesis — Romanian-American University, Bucharest  
-Faculty of Computer Science for Business Management  
-GitHub: [Jilan2004](https://github.com/Jilan2004)
+Bachelor's Thesis — Romanian-American University, Bucharest   
