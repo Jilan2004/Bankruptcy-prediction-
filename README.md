@@ -28,13 +28,13 @@ Bankruptcy_thesis/
 ├── app.py                        # Web application (Streamlit)
 │
 ├── data/
-│   └── american_bankruptcy_dataset.csv   # ⚠️ Not included — see below
+│   └── american_bankruptcy_dataset.csv   # ! Not included — see below
 │
 ├── model/
-│   ├── catboost_bankruptcy.cbm           # ⚠️ Not included — see below
-│   ├── app_metadata.joblib               # ⚠️ Not included — see below
-│   ├── isotonic_calibrator.joblib        # ⚠️ Not included — see below
-│   └── platt_calibrator.joblib           # ⚠️ Not included — see below
+│   ├── catboost_bankruptcy.cbm           # ! Not included — see below
+│   ├── app_metadata.joblib               # ! Not included — see below
+│   ├── isotonic_calibrator.joblib        # ! Not included — see below
+│   └── platt_calibrator.joblib           # ! Not included — see below
 │
 ├── notebooks/
 │   ├── step1_explore_data.ipynb          # EDA
@@ -70,7 +70,7 @@ pip install catboost scikit-learn pandas numpy matplotlib seaborn joblib streaml
 
 The dataset is published by Lombardo et al. (2022) and is available at:
 
-👉 https://github.com/sowide/bankruptcy_dataset
+ https://github.com/sowide/bankruptcy_dataset
 
 Download `american_bankruptcy_dataset.csv` and place it inside the `data/` folder.
 
